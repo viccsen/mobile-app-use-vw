@@ -1,0 +1,10 @@
+
+export default {
+  ROUTER: {
+    NAMESPACE: 'ROUTER',
+    UPDATELOADINGSTATE: 'UPDATELOADINGSTATE',
+  },
+  DALETE: {
+
+  }
+}
